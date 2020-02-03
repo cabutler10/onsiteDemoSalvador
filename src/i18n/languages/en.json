@@ -1,0 +1,53 @@
+{
+  "body": {
+    "dashboard": "Dashboard",
+    "report": "quarterly report for",
+    "quarterly": "Quarterly",
+    "total": "Total",
+    "time": "time",
+    "yearly": "Yearly"
+  },
+  "status": {
+    "title": "idea status",
+    "submitted": "submitted",
+    "notAssessed": "not assessed yet",
+    "inAssessment": "in assessment",
+    "rejected": "rejected",
+    "inProgress": "in progress",
+    "implemented": "implemented"
+  },
+  "country": {
+    "title": "Ideas per country",
+    "Germany": "Germany",
+    "Russia": "Russia",
+    "Ukraine": "Ukraine",
+    "Austria": "Austria",
+    "Belarus": "Belarus",
+    "Czech Republic": "Czech Republic",
+    "Armenia": "Armenia",
+    "Switzerland": "Switzerland",
+    "Slovakia": "Slovakia",
+    "0": "Unknown",
+    "other": "Other"
+  },
+  "sbu": {
+    "title": "ideas per SBU",
+    "Zeppelin Holding": "Zeppelin Holding",
+    "Construction Equipment CIS": "Construction Equipment CIS",
+    "SGE Baumaschinen EU": "Construction Equipment EU",
+    "SGE Rental": "Rental",
+    "SGE Anlagenbau": "Plant Engineering",
+    "SGE Power Systems": "Power Systems",
+    "Z Lab": "Z Lab",
+    "total": "Total"
+  },
+  "processTime": {
+    "title": "Idea Processing Time",
+    "tooltip": "Days between when idea was submitted and when assessment was completed.",
+    "warning": "Due to data inconsistency, ideas submitted from Russia were excluded for this analysis in 2017."
+  },
+  "implementationRate": {
+    "title": "Implementation Rate",
+    "tooltip": "Ideas 'In Implementation' and 'Implemented' divided by the total number of ideas submitted."
+  }
+}

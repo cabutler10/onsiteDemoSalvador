@@ -1,0 +1,53 @@
+{
+  "body": {
+    "dashboard": "Instrumententafel",
+    "report": "Quartalsbericht für",
+    "quarterly": "Vierteljährlicher",
+    "total": "Gesamt",
+    "time": "Zeit",
+    "yearly": "Jährlich"
+  },
+  "status": {
+    "title": "Ideenstatus",
+    "submitted": "eingereicht",
+    "notAssessed": "noch nicht bewertet",
+    "inAssessment": "Beim Gutachter",
+    "rejected": "abgelehnt",
+    "inProgress": "in Bearbeitung",
+    "implemented": "umgesetzt"
+  },
+  "country": {
+    "title": "Ideen pro Land",
+    "Germany": "Deutschland",
+    "Russia": "Russland",
+    "Ukraine": "Ukraine",
+    "Austria": "Österreich",
+    "Belarus": "Weißrussland",
+    "Czech Republic": "Tschechische Republik",
+    "Armenia": "Armenien",
+    "Switzerland": "Schweiz",
+    "Slovakia": "Slovakia",
+    "0": "unbekannte",
+    "other": "Andere"
+  },
+  "sbu": {
+    "title": "Ideen pro SGE",
+    "Zeppelin Holding": "Zeppelin Holding",
+    "Construction Equipment CIS": "Baumaschinen CIS",
+    "SGE Baumaschinen EU": "Baumaschinen EU",
+    "SGE Rental": "Rental",
+    "SGE Anlagenbau": "Anlagenbau",
+    "SGE Power Systems": "Power Systems",
+    "Z Lab": "Z Lab",
+    "total": "gesamt"
+  },
+  "processTime": {
+    "title": "Ideenbearbeitungszeit",
+    "tooltip": "Tage zwischen der Einreichung der Idee und dem Abschluss der Bewertung.",
+    "warning": "Aufgrund inkonsistenter Daten wurden 2017 aus Russland eingereichte Ideen für diese Analyse ausgeschlossen."
+  },
+  "implementationRate": {
+    "title": "Umsetzungsrate",
+    "tooltip": "deen 'In Bearbeitung' und 'Umgesetzt' geteilt durch die Gesamtzahl der eingereichten Ideen."
+  }
+}
